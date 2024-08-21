@@ -45,4 +45,4 @@ Identifique e analise os riscos potenciais que podem impactar o projeto, bem com
 | R03      | Insegurança dos dados devido a vulnerabilidades no sistema.  | Alto     | Baixa         | Implementação de práticas robustas de segurança e auditoria de código. |
 
 ## Referências
-Liste aqui qualquer referência utilizada para o desenvolvimento da documentação, como guias de estilo, normas técnicas, ou outras documentações relevantes.
+Liste aqui qualquer referência utilizada para o desenvolvimento da documentação, como guias de estilo, normas técnicas, ou outras documentações relevantes...
