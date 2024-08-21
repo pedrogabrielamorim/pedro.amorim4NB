@@ -1,0 +1,28 @@
+{
+  "name": "meu-projeto",
+  "version": "1.0.0",
+  "description": "Um projeto de exemplo para demonstrar o uso do package.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Erro: nenhum teste especificado\" && exit 1"
+  },
+  "keywords": [
+    "exemplo",
+    "nodejs",
+    "package.json"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.4.1",
+    "express": "^4.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
